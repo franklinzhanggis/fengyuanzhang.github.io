@@ -39,6 +39,11 @@ h1 {
   margin-top: 55px;
 }
 
+.cont-txt .icon {
+  position: absolute;
+  margin: 50px 0px 0px 560px;
+}
+
 hr {
   margin-top: 10px;
   border: none;
