@@ -4,17 +4,16 @@
 
 ##### Ph.D. in Cartography and Geographic Information System
 
+### Research Interests
+_____________________
+
+Geographical modeling and simulation; Model sharing and reuse; Distributed geographic computing; Model interoperation; High-definition (HD) map data standard
+
 ### Biography
 _____________________
 I am working as a postdoctoral fellow at the Hong Kong Polytechnic University. I got a Ph.D. degree in Cartography and GIS from Nanjing Normal University in June 2021. My research has focused primarily on geo-analysis model sharing on the web, geographical modeling and simulation, and model interoperation. In model sharing, I have designed and developed kinds of software in the OpenGMS platform (https://geomodeling.njnu.edu.cn/), including OpenGMS Model Service Container, related tools, and SDKs. I also have experience in high-performance computing and distributed computing of geographical and environmental simulation. In geographical modeling and simulation, I am familiar with the usage of kinds of geo-analysis and environmental models (such as SWAT, SWMM, FDS, and Biome-BGC). I have skills in geo-spatial analysis and machine learning, and related case studies include runoff and air pollution simulation. In model interoperation, I developed the interoperability engine for different model standards and built the interoperation protocol among OpenMI, CSDMS, and OpenGMS.
 
 I have much experience in program coding for data analysis and software development, especially in web development (GitHub: https://github.com/franklinzhanggis/wrappersystem, Demo: http://106.14.78.235:8060/).  I am the peer reviewer in Environment Modelling & Software, and was the conference secretariat of the International Workshop on Open Geographical Modeling and Simulation (50 participants), the 1st Regional Conference on Environmental Modeling and Software (Asian Region) (200 participants), and the 1st National Geo-analysis Model Training Workshop of China (1400 participants).
-
-
-### Research Interests
-_____________________
-
-Geographical modeling and simulation; Model sharing and reuse; Distributed geographic computing; Model interoperation; High-definition (HD) map data standard
 
 ### Education
 _____________________
