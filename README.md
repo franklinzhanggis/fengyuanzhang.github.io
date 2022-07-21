@@ -43,7 +43,7 @@ _____________________
 
 * Cui, X., Huang, S., Liu, C., Zhou, T., Shan, L., **Zhang, F.**, Chen, M., Li, F., de Vries, WT. Applying SBM-GPA Model to Explore Urban Land Use Efficiency Considering Ecological Development in China. Land. 2021; 10(9):912. (SCI; JCR-Q2; IF:3.395)
 
-### Publications
+### Awards
 _____________________
 
 * 2022.5 CSDMS Syvitski Student Modeler Award (runner-up)
