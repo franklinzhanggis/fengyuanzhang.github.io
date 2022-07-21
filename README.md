@@ -54,7 +54,7 @@ _____________________
 
 * 2019.10 Outstanding Young Scientists Paper in 7th National Virtual Geographic Environment Conference of China
 
-### Academic Title
+### Academic Titles
 _____________________
 
 
