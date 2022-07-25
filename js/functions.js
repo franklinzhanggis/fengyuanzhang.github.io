@@ -10,5 +10,5 @@ var imageClick = function(){
     // var index = parseInt(imageurl.substr(imageurl.indexOf(".jpg") - 4, 1)) + 1;
     var index = imageCount%5 + 1;
     if(index > 5){index = 1};
-    $("#icon").attr("src", "./images/ICON" + index.toString() + ".JPG");
+    $("#icon").attr("src", "./images/ICON" + index.toString() + ".jpg");
 }
