@@ -8,7 +8,7 @@ var imageClick = function(){
     }
     // var imageurl = $("#icon").attr("src");
     // var index = parseInt(imageurl.substr(imageurl.indexOf(".jpg") - 4, 1)) + 1;
-    var index = imageCount%5 + 1;
-    if(index > 5){index = 1};
+    var index = imageCount%6 + 1;
+    if(index > 6){index = 1};
     $("#icon").attr("src", "./images/ICON" + index.toString() + ".jpg");
 }
